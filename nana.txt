@@ -1,0 +1,8 @@
+tabel post 
+foto varchar
+descriptions text
+
+
+
+
+tanggal date
